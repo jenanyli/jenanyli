@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @jenanyli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @jenanyli  
+- 👀我有兴趣...学习股票分析
+-
+-
+- 🌱 我正在学习  r如何
+-Ff洗
+- 💞️ 我正在寻找...学嘻嘻嘻
+-
 - 📫 How to reach me ...
 
 <!---
